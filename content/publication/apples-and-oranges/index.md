@@ -41,7 +41,7 @@ url_code: https://github.com
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: https://instagram.com
 url_source:
 url_video:
 
